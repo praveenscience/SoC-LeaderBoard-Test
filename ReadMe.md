@@ -10,4 +10,11 @@ We have level labels too:
 
 Create a couple of files in this repo and submit the PRs here.
 
+Use Cases:
+
+* Since it's based on the Projects, it only looks at the list of projects given.
+* Should not consider the users that are not configured.
+* Should not consider the PRs that don't have the base class even though user is there.
+* Should consider the lowest level (or highest), whichever configured first if there are multiple.
+
 Let's test this out!
