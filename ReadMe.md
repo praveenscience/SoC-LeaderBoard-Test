@@ -1,5 +1,7 @@
 # SoC LeaderBoard Playground Repo
 
+![Testing Completed! Thanks for being a part of this!](https://i.imgur.com/SA51k7v.png)
+
 We want the base Label to be: `SoCTest25`. Only these PRs will be considered.
 
 We have level labels too:
