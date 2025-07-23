@@ -16,5 +16,8 @@ Use Cases:
 * Should not consider the users that are not configured.
 * Should not consider the PRs that don't have the base class even though user is there.
 * Should consider the lowest level (or highest), whichever configured first if there are multiple.
+* Unmerged valid PRs should be not considered too.
+
+PR Check: https://api.github.com/repos/praveenscience/SoC-LeaderBoard-Test/pulls/PR_ID
 
 Let's test this out!
